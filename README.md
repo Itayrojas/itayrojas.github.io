@@ -1,9 +1,6 @@
 # Itay Rojas Imagen escrita 2019
 Pagina de mis trabajos de Imagen Escrita
 
-{\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang3082{\fonttbl{\f0\fnil\fcharset0 Calibri;}}
-{\*\generator Riched20 10.0.18362}\viewkind4\uc1 
-\pard\sa200\sl276\slmult1\f0\fs22\lang10 <html>\par
 \par
 <head>\par
     <meta charset="UTF-8">\par
