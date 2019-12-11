@@ -21,15 +21,15 @@ Pagina de mis trabajos de Imagen Escrita
             <li><a href="Boveda/">Boveda\'f3n de Color</a></li>\par
             <li><a href="Efecto mar/">Efecto Mar\'e8 de Color</a></li>\par
             <li><a href="Ejercicio 1/">Ejercicio 1\'f3n de datos</a></li>\par
-            <li><a href="Espiral tricolor">Cubo con ciclo 'for' tridimensional</a\par
-            <li><a href="noise_machine/">M\'e1quina de Ruido: Horizontes</a></li>\par
-            <li><a href="pattern_01/">Trama a partir de 2 inclinaciones de una l\'ednea</a></li>\par
-            <li><a href="Spiral_noise/">Dibujo espiral + Ruido (noise)</a></li>\par
-            <li><a href="Tramas_Moire/">Tramas Moir\'e8</a></li>\par
-            <li><a href="Lewitt_2_con_arreglo/">Interpretaci\'f3n de obra de Sol Lewitt</a></li>\par
-            <li><a href="Noise_+_Sin/">Suma de funciones: Seno + Ruido</a></li>\par
-            <li><a href="Triangulo_de_Serpinski/">Recursividad: el Tri\'e1ngulo de Serpinski</a></li>\par
-            <li><a href="Wanderer">Part\'edculas Errantes</a></li>\par
+            <li><a href="Espiral tricolor/">Espiral tricolor</a\par
+            <li><a href="Estrella de la muerte/">Estrella de la muerte</a></li>\par
+            <li><a href="Hoyo de gusano/">Hoyo de gusano</a></li>\par
+            <li><a href="Recursion flasheante/">Recursion flasheante</a></li>\par
+            <li><a href="Recursion/">Recursion</a></li>\par
+            <li><a href="Trazo pintor 2.2/">Trazo pintor 2.2</a></li>\par
+            <li><a href="Trazo pintor Brooke/">Brooke Candy</a></li>\par
+            <li><a href="Tsunami/">Tsunami</a></li>\par
+            <li><a href="for loop 2d/">Part\'edculas Errantes</a></li>\par
             <li><a href="Wanderer_mesh/">Trama de Puntos Errantes</a></li>\par
         </ol>\par
 </body>\par
