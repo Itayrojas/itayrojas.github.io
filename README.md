@@ -18,9 +18,9 @@ Pagina de mis trabajos de Imagen Escrita
 \par
 \par
         <ol>\par
-            <li><a href="Boveda/">Interpolaci\'f3n de Color</a></li>\par
-            <li><a href="Efecto mar/">Efecto Moir\'e8 de Color</a></li>\par
-            <li><a href="Ejercicio 1/">Ejemplo de visualizaci\'f3n de datos</a></li>\par
+            <li><a href="Boveda/">Boveda\'f3n de Color</a></li>\par
+            <li><a href="Efecto mar/">Efecto Mar\'e8 de Color</a></li>\par
+            <li><a href="Ejercicio 1/">Ejercicio 1\'f3n de datos</a></li>\par
             <li><a href="Espiral tricolor">Cubo con ciclo 'for' tridimensional</a\par
             <li><a href="noise_machine/">M\'e1quina de Ruido: Horizontes</a></li>\par
             <li><a href="pattern_01/">Trama a partir de 2 inclinaciones de una l\'ednea</a></li>\par
