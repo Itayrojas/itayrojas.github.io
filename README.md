@@ -30,7 +30,7 @@ Pagina de mis trabajos de Imagen Escrita
             <li><a href="Tsunami/">Tsunami</a></li>\par
             <li><a href="for loop 2d/">Part\for loop 2d</a></li>\par
             <li><a href="Marina trazo pintor/">Marina trazo pintor</a></li>\par
-            <li><a href="Sol Lewitt 10000/">Sol lewitt obra 10000 lineas</a></li>\par
+            <li><a href="Sol Lewitt 10000/">Sol Lewitt 10000 </a></li>\par
         </ol>\par
 </body>\par
 \par
