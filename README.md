@@ -1,13 +1,13 @@
 # Itay Rojas Imagen escrita 2019
 Pagina de mis trabajos de Imagen Escrita
 
-\par
-<head>\par
-    <meta charset="UTF-8">\par
-    <meta name="viewport" content="width=device-width, user-scalable=no" />\par
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no" />
     <link rel="stylesheet" href="style.css">\par
     <title>Imagen Escrita 2019</title>\par
-</head>\par
+</head>
 \par
 <body>\par
 \par
