@@ -1,5 +1,4 @@
-# Itay Rojas Imagen escrita 2019
-Pagina de mis trabajos de Imagen Escrita
+<html>
 
 
 <head>
