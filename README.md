@@ -8,14 +8,13 @@ Pagina de mis trabajos de Imagen Escrita
     <link rel="stylesheet" href="style.css">\par
     <title>Imagen Escrita 2019</title>\par
 </head>
-\par
-<body>\par
+
+<body>
 \par
     <div id="container">\par
         <h1>Imagen Escrita 2019<br>\par
 
-\par \par \par \par \par
-\par
+\par 
         <ol>\par
             <li><a href="Boveda/">Boveda\'f3n de Color</a></li>\par
             <li><a href="Efecto mar/">Efecto Mar\'e8 de Color</a></li>\par
