@@ -1,5 +1,5 @@
 *{
-  margin: 0px;
+  margin: 20px;
   padding: 0px;
 }
 
@@ -8,12 +8,4 @@ body {
 background: #648c11;
   color: #FF9C9C;
 
-  div#general{
-  margin: auto;
-  margin-top:200px;
-  width:600px;
-  height:800px;
-  background-color: #FFF5B8;
-  
-  }
 }
