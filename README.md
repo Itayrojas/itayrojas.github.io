@@ -4,8 +4,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, user-scalable=no" />
-    <link rel="stylesheet" href="style.css">\par
-    <title>Imagen Escrita 2019</title>\par
+    <link rel="stylesheet" href="style.css">
+    <title>Imagen Escrita 2019</title>
 </head>
 
 <body>
@@ -14,7 +14,7 @@
         <h1>Imagen Escrita 2019<br>\par
 
 \par 
-        <ol>\par
+        <ol>
             <li><a href="Boveda/">Boveda\'f3n de Color</a></li>\par
             <li><a href="Efecto mar/">Efecto Mar\'e8 de Color</a></li>\par
             <li><a href="Ejercicio 1/">Ejercicio 1\'f3n de datos</a></li>\par
@@ -29,10 +29,10 @@
             <li><a href="for loop 2d/">Part\for loop 2d</a></li>\par
             <li><a href="Marina trazo pintor/">Marina trazo pintor</a></li>\par
             <li><a href="Sol Lewitt 10000/">Sol Lewitt 10000 </a></li>\par
-        </ol>\par
-</body>\par
-\par
-</html>\par
+        </ol>
+</body>
+
+</html>
   
 }
 
